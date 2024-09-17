@@ -2,18 +2,21 @@ name: Jeff Ureta
 dp: assets/images/avatar-icon.jpg
 description: "
   <p>
+    Yo! I&aposm Jeff Ureta ✌🏼
+  </p>
+  <p>
     I put up my notes here 📝
   </p>
 "
-email: dev_sharad@outlook.com
+email: jeffvincentureta@gmail.com
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
-  - title: github
-    url: https://github.com/sharadcodes
-  - title: twitter
-    url: https://twitter.com/iamsharadraj
-  - title: dev
-    url: https://dev.to/sharadcodes
+ # - title: linkedin
+ #   url: https://www.linkedin.com/in/srsmaurya
+ # - title: github
+ #   url: https://github.com/sharadcodes
+ # - title: twitter
+ #   url: https://twitter.com/iamsharadraj
+ # - title: dev
+ #   url: https://dev.to/sharadcodes
   - title: email
-    url: mailto:dev_sharad@outlook.com
+    url: jeffvincentureta@gmail.com
