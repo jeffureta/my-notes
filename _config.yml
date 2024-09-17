@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: My Notes
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Jeff Ureta
+  email: jeffvincentureta@gmail.com
 
 plugins:
   - jemoji
